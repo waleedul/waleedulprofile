@@ -1,5 +1,5 @@
 # waleedulprofile
-<h3 align="left">Hi 👋! My name is Waleedul haque and I'm a B Tech cs student from Madhubani</h3>
+<h3 align="left">Hi 👋! My name is Waleedul haque and I'm a B Tech cs student in GLA University</h3>
 
 ###
 
