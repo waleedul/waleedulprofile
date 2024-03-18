@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/Platane/snk/tree/main#snk" alt="Snake animation" />
+<img src="https://github.com/waleedul/snk/tree/main#snk" alt="Snake animation" />
 
 ###
 
